@@ -1,2 +1,1 @@
-# mind-reader
-A simple game
+# A simple game
