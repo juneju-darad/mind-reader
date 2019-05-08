@@ -3,7 +3,8 @@
 int main(void)
 {
       char x,y;
-      printf("Think of a number between 2 to 9\n");
+      printf("Hey! I can read your mind!!\n");
+      printf("(Note:don't tell me any thing,\nafter you are done just press Enter.\nnow,Think of a number between 2 to 9\n");
       scanf("%c", &y);
       printf("Now multiply the number by 9\n");
       scanf("%c", &y);
